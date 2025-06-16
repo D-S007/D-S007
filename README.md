@@ -33,19 +33,25 @@
 
 ---
 
-### 📌 Highlight Projects
+### 📌 Featured Projects
 
-#### 🎥 **YouReview**
-> AI-powered comment scraper that fetches, filters, and summarizes **genuine** product/service reviews from YouTube using **sentiment analysis + cosine similarity**  
-[🔗 View Repo](https://github.com/D-S007/YouReview) · [📺 Demo](#)
+#### 🔧 [Flow Forge AI](https://flow-forge-ai-one.vercel.app/login)
+> NLP-based intelligent code generator and workflow optimizer  
+Tech: Python, Java, FastAPI, NLTK, PostgreSQL, React  
+• Generated 1000+ lines of code using NLP-based code synthesis  
+• Topological sort used for task and logic flow optimization
 
-#### 📊 **Agentic WorkBench**
-> Simulated agent productivity dashboard built with multi-source data (emails, tasks, analytics). Visualizes **ATCR**, **NTS**, and **RIPA** metrics with Linux-friendly tools.  
-[🔗 View Repo](https://github.com/D-S007/FlowForge_AI)
+#### 📺 [YouReview](https://github.com/D-S007/YouReview)
+> YouTube sentiment analyzer for genuine product/service feedback  
+Tech: Python, FastAPI, NLTK, PostgreSQL  
+• Scrapes comments, performs sentiment analysis, ranks “real” reviews  
+• Users can choose favorite creators for personalized outputs
 
-#### 🎓 **SikshaNet AI**
-> Personalized skill development platform aligned with the **Skill India Mission**. Delivers AI-curated learning paths for students in tier-2/3 cities.  
-[🔗 View Repo](#)
+#### 🎓 [CampusCopilot](https://github.com/D-S007/CampusCopilot)
+> AI-powered productivity assistant for students and faculty  
+Tech: Python, FastAPI, MongoDB Atlas, React  
+• Smart bunk planner to track skippable classes  
+• Real-time academic assistant: reminders, datesheets, announcements
 
 ---
 

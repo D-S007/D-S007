@@ -1,4 +1,5 @@
-<h1 align="center">👋Hey there, I'm [David Singh]!</h1>
+<h1 align="center">Hey there👋,
+I'm David Singh!</h1>
 <p align="center">🧠 Data Analyst | 🛠️ ML Developer | 🌐 Open Source Enthusiast | 🐧 Linux Native</p>
 
 ---

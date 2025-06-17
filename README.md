@@ -17,17 +17,17 @@ I'm David Singh!</h1>
 ### 🛠️ Tech Stack
 
 **Languages & Data:**  
-`Python` `SQL` `Bash` `JavaScript (basic)`  
+`Python` `SQL` `Bash` `JavaScript`  
 
 **Libraries & Tools:**  
 `Pandas` `NumPy` `scikit-learn` `NLTK` `XGBoost` `HuggingFace`  
-`Streamlit` `Gradio` `Plotly` `Seaborn` `Matplotlib`  
+`Streamlit` `Seaborn` `Matplotlib` `Plotly` `Dash`
 
 **Web & APIs:**  
 `BeautifulSoup` `FastAPI` `Flask` `Requests`  
 
 **Databases:**  
-`SQLite` `PostgreSQL` `MySQL`  
+`MySQL` `SQLite` `PostgreSQL` `MongoDB`
 
 **Platforms & DevOps:**  
 `Linux` `Git` `GitHub Actions` `Docker` `VSCode` `Google Colab` `Kaggle`

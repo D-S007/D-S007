@@ -87,6 +87,5 @@ Tech: Python, FastAPI, MongoDB Atlas, React
 
 ---
 
-> Thanks for visiting!✨
-Feel free to explore, fork, and reach out if you'd like to collaborate.
+> ⭐Thanks for visiting! Feel free to explore, fork, and reach out if you'd like to collaborate.
 

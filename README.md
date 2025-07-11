@@ -18,7 +18,7 @@
 ---
 
 ### 🛠️ Tech Stack
-
+<img align="right" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="500" height="320" />
 **Languages & Data:**  
 `Python` `SQL` `Bash` `JavaScript`  
 

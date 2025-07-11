@@ -1,4 +1,3 @@
-
 ### Hello  <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25"> World <img src="https://github.com/D-S007/D-S007/blob/main/assets/Earth.gif" width="24"> 
 
 <h1 align="center"> I'm David Singh!</h1>
@@ -17,7 +16,9 @@
 - 🐧 Prefer open-source workflows & tools; Linux-first, always 💙
 - ✨ Believe in clean code, real impact, and continuous growth
 
----
+<div align="center">
+  <img src="https://github.com/D-S007/D-S007/blob/main/assets/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
 
 ### 🛠️ Tech Stack
 <img align="right" alt="GIF" src="https://github.com/D-S007/D-S007/blob/main/assets/code.gif" width="500" height="320"/>
@@ -38,7 +39,9 @@
 **Platforms & DevOps:**  
 `Linux` `Git` `GitHub Actions` `Docker` `VSCode` `Google Colab` `Kaggle`
 
----
+<div align="center">
+  <img src="https://github.com/D-S007/D-S007/blob/main/assets/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
 
 ### 📌 Featured Projects
 
@@ -60,7 +63,9 @@ Tech: Python, FastAPI, MongoDB Atlas, React
 • Smart bunk planner to track skippable classes  
 • Real-time academic assistant: reminders, datesheets, announcements
 
----
+<div align="center">
+  <img src="https://github.com/D-S007/D-S007/blob/main/assets/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
 
 ### 📈 GitHub Stats
 
@@ -75,7 +80,9 @@ Tech: Python, FastAPI, MongoDB Atlas, React
   <img src="https://github-profile-trophy.vercel.app/?username=D-S007&theme=radical&margin-w=10&no-frame=true" alt="Trophies">
 </p>
 
----
+<div align="center">
+  <img src="https://github.com/D-S007/D-S007/blob/main/assets/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
 
 ### 🔗 Connect with Me
 
@@ -84,7 +91,9 @@ Tech: Python, FastAPI, MongoDB Atlas, React
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://d-s007.github.io/Portfolio/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhdavid036@gmail.com)
 
----
+<div align="center">
+  <img src="https://github.com/D-S007/D-S007/blob/main/assets/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
 
 ### ⚡ Fun Facts
 
@@ -93,7 +102,9 @@ Tech: Python, FastAPI, MongoDB Atlas, React
 - Learning is my superpower: I prototype before I perfect
 - Ask me about **open-source AI projects**, **Linux tools**, or **productivity hacks**
 
----
+<div align="center">
+  <img src="https://github.com/D-S007/D-S007/blob/main/assets/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
 
 > ⭐Thanks for visiting! Feel free to explore, fork, and reach out if you'd like to collaborate.
 <div align="center">

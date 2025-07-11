@@ -41,7 +41,6 @@
 ---
 
 ### 📌 Featured Projects
-<a href = "https://github.com/d-s007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-s007&&langs_count=8&layout=compact&title_color=edd609&icon_color=8ac926&text_color=daf7dc&bg_color=2f034c" align ='right'></a>
 
 #### 🔧 [Flow Forge AI](https://flow-forge-ai-one.vercel.app/login)
 > NLP-based intelligent code generator and workflow optimizer  
@@ -64,6 +63,8 @@ Tech: Python, FastAPI, MongoDB Atlas, React
 ---
 
 ### 📈 GitHub Stats
+
+<a href = "https://github.com/d-s007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-s007&&langs_count=8&layout=compact&title_color=d60ab4&icon_color=8ac926&text_color=daf7dc&bg_color=16011e" align ='right'></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D-S007&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
@@ -95,4 +96,6 @@ Tech: Python, FastAPI, MongoDB Atlas, React
 ---
 
 > ⭐Thanks for visiting! Feel free to explore, fork, and reach out if you'd like to collaborate.
-
+<div align="center">
+  <img src="https://github.com/D-S007/D-S007/blob/main/assets/Gradients.png" alt="Gradient Image"/>
+</div>

@@ -1,5 +1,5 @@
 
-### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/D-S007/Earth.gif" width="24"> 
+### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/D-S007/D-S007/blob/main/assets/Earth.gif" width="24"> 
 
 <h1 align="center"> I'm David Singh!</h1>
 
@@ -20,7 +20,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<img align="right" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="500" height="320"/>
+<img align="right" alt="GIF" src="https://github.com/D-S007/D-S007/blob/main/assets/code.gif" width="500" height="320"/>
 
 **Languages & Data:**  
 `Python` `SQL` `Bash` `JavaScript`  

@@ -41,7 +41,7 @@
 ---
 
 ### 📌 Featured Projects
-<a href = "https://github.com/d-s007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-s007&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
+<a href = "https://github.com/d-s007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-s007&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" align ='right'></a>
 
 #### 🔧 [Flow Forge AI](https://flow-forge-ai-one.vercel.app/login)
 > NLP-based intelligent code generator and workflow optimizer  

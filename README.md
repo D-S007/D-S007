@@ -1,12 +1,12 @@
 
-### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/D-S007/D-S007/blob/main/assets/Earth.gif" width="24"> 
+### Hello  <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25"> World <img src="https://github.com/D-S007/D-S007/blob/main/assets/Earth.gif" width="24"> 
 
 <h1 align="center"> I'm David Singh!</h1>
 
 <p align="center">🧠 Data Analyst | 🛠️ ML Developer | 🌐 Open Source Enthusiast | 🐧 Linux Native</p>
 
 <div align="center">
-  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+  <img src="https://github.com/D-S007/D-S007/blob/main/assets/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
 </div>
 
 ### 🔍 About Me
@@ -41,7 +41,7 @@
 ---
 
 ### 📌 Featured Projects
-<a href = "https://github.com/d-s007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-s007&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" align ='right'></a>
+<a href = "https://github.com/d-s007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-s007&&langs_count=8&layout=compact&title_color=edd609&icon_color=8ac926&text_color=daf7dc&bg_color=2f034c" align ='right'></a>
 
 #### 🔧 [Flow Forge AI](https://flow-forge-ai-one.vercel.app/login)
 > NLP-based intelligent code generator and workflow optimizer  

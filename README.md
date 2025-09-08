@@ -22,7 +22,7 @@
 <img align="right" alt="GIF" src="https://github.com/D-S007/D-S007/blob/main/assets/code.gif" width="500" height="320"/>
 
 **Languages & Data:**  
-`Python` `SQL` `Bash` `JavaScript`  
+`Python` `C++` `Java` `SQL` `Bash` `JavaScript`  
 
 **Libraries & Tools:**  
 `Pandas` `NumPy` `scikit-learn` `NLTK` `XGBoost` `HuggingFace`  

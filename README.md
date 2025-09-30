@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25"> 
-  ### Hey 
+  <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25" style="vertical-align: middle;"> 
+  <h3 style="display: inline; margin: 0; vertical-align: middle;">Hey</h3>
 </div>
+
 <h1 align="center"> I'm David Singh!</h1>
 
 <p align="center">📊 Data Analyst | 🤖 AI/ML Specialist | 🧠 NLP Chatbots & AI Agents </p>

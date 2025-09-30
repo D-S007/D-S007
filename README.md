@@ -1,8 +1,10 @@
-### Hello  <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25"> World <img src="https://github.com/D-S007/D-S007/blob/main/assets/Earth.gif" width="24"> 
+### Hey <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25"> 
 
-<h1 align="center"> I'm David Singh!</h1>
+<div align="center">
+  <img width="1584" height="396" alt="Github-banner" src="https://github.com/user-attachments/assets/5d64e556-dd52-4a6d-8ddb-7a553f503ccb" />
+</div>
 
-<p align="center">🧠 Data Analyst | 🛠️ ML Developer | 🌐 Open Source Enthusiast | 🐧 Linux Native</p>
+<p align="center">🧠 Data Analyst | 🛠️ AI/ML Specialist | NLP Chatbots & AI Agents | Python | SQL | Tableau | Building Intelligent Data Solutions | 🐧 Linux Native</p>
 
 <div align="center">
   <img src="https://github.com/D-S007/D-S007/blob/main/assets/Rainbow.gif" alt="Rainbow GIF" width="100%"/>

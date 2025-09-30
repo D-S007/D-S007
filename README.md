@@ -2,7 +2,7 @@
 
 <h1 align="center"> I'm David Singh!</h1>
 
-<p align="center">📊 Data Analyst | 🤖 AI/ML Specialist | NLP Chatbots & AI Agents | Python | SQL | Linux </p>
+<p align="center">📊 Data Analyst | 🤖 AI/ML Specialist | 🧠 NLP Chatbots & AI Agents </p>
 
 <!-- <div align="center">
   <img width="1584" height="396" alt="Banner-Github" src="https://github.com/user-attachments/assets/0fd31c08-ef00-4fe9-b524-b6068ea391fb" />

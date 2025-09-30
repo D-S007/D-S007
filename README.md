@@ -1,8 +1,8 @@
-<div align="center">
-  <img width="1584" height="396" alt="Github-banner" src="https://github.com/user-attachments/assets/5d64e556-dd52-4a6d-8ddb-7a553f503ccb" />
+<img width="53" height="53" alt="icons8-ai-brain-53" src="https://github.com/user-attachments/assets/b1b8fa6b-5cd3-4a55-ac12-90ab0bb28679" /><div align="center">
+  <img width="1584" height="396" alt="Banner-Github" src="https://github.com/user-attachments/assets/0fd31c08-ef00-4fe9-b524-b6068ea391fb" />
 </div>
 
-<p align="center">🧠 Data Analyst | 🛠️ AI/ML Specialist | NLP Chatbots & AI Agents | Python | SQL | Tableau | Building Intelligent Data Solutions | 🐧 Linux Native</p>
+<p align="center"> Data Analyst | AI/ML Specialist | NLP Chatbots & AI Agents </p>
 
 <div align="center">
   <img src="https://github.com/D-S007/D-S007/blob/main/assets/Rainbow.gif" alt="Rainbow GIF" width="100%"/>

@@ -1,5 +1,3 @@
-### Hey <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25"> 
-
 <div align="center">
   <img width="1584" height="396" alt="Github-banner" src="https://github.com/user-attachments/assets/5d64e556-dd52-4a6d-8ddb-7a553f503ccb" />
 </div>

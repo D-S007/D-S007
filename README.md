@@ -1,4 +1,4 @@
-### Hello  <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25"> World <img src="https://github.com/D-S007/D-S007/blob/main/assets/Earth.gif" width="24"> 
+### Hey <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25">  
 
 <h1 align="center"> I'm David Singh!</h1>
 
@@ -17,10 +17,10 @@
 ### 🔍 About Me
 📊 Data Analyst with specialized skills in AI/ML and NLP. I transform raw data into actionable insights and intelligent applications.
 
-🔍 Core expertise in data analysis, visualization, and business intelligence, enhanced with AI capabilities including:
-• Building NLP chatbots and AI agents for automated decision-making
-• Developing ML models for predictive analytics and recommendations
-• Creating end-to-end data pipelines from analysis to deployment
+🔍 Core expertise in Data Analysis, Visualization, and Business Intelligence, enhanced with AI capabilities including:
+- Building NLP chatbots and AI agents for automated decision-making
+- Developing ML models for predictive analytics and recommendations
+- Creating end-to-end data pipelines from analysis to deployment
 
 💡 Passionate about solving business problems through data-driven solutions and intelligent automation.
 

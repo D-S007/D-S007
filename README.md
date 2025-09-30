@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25"> 
-  Hey
+  <h3>Hey</h3>
 </p>
 <h1 align="center"> I'm David Singh!</h1>
 

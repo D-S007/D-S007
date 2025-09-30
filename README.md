@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25" style="vertical-align: middle;"> 
-  <h3 style="display: inline; margin: 0; vertical-align: middle;">Hey</h3>
+  <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25"> 
+  Hey
 </div>
 
 <h1 align="center"> I'm David Singh!</h1>

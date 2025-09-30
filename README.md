@@ -1,21 +1,27 @@
-### Hello <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25"> World <img src="https://github.com/D-S007/D-S007/blob/main/assets/Earth.gif" width="24">,  I'm
-<div align="center">
+### Hello  <img src="https://github.com/D-S007/D-S007/blob/main/assets/hey.webp" width="25"> World <img src="https://github.com/D-S007/D-S007/blob/main/assets/Earth.gif" width="24"> 
+
+<h1 align="center"> I'm David Singh!</h1>
+
+<p align="center">📊 Data Analyst | 🤖 AI/ML Specialist | NLP Chatbots & AI Agents | Python | SQL | Linux</p>
+<!-- <div align="center">
   <img width="1584" height="396" alt="Banner-Github" src="https://github.com/user-attachments/assets/0fd31c08-ef00-4fe9-b524-b6068ea391fb" />
 </div>
 
-<p align="center"> A Passionate Data Analyst | AI/ML Specialist | Currently working on NLP Chatbots & AI Agents </p>
+<!-- <p align="center"> A Passionate Data Analyst | AI/ML Specialist | Currently working on NLP Chatbots & AI Agents </p> --> -->
 
 <div align="center">
   <img src="https://github.com/D-S007/D-S007/blob/main/assets/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
 </div>
 
 ### 🔍 About Me
+📊 Data Analyst with specialized skills in AI/ML and NLP. I transform raw data into actionable insights and intelligent applications.
 
-- 🎓 Self-driven learner focused on **AI/ML, NLP**, and **data-driven systems**
-- 💼 Currently working on **automated dashboards**, **recommendation engines**, and **agentic tools**
-- 🧠 Love building solutions from scratch — from **scraping** to **analysis**, **ML modeling**, and **deployment**
-- 🐧 Prefer open-source workflows & tools; Linux-first, always 💙
-- ✨ Believe in clean code, real impact, and continuous growth
+🔍 Core expertise in data analysis, visualization, and business intelligence, enhanced with AI capabilities including:
+• Building NLP chatbots and AI agents for automated decision-making
+• Developing ML models for predictive analytics and recommendations
+• Creating end-to-end data pipelines from analysis to deployment
+
+💡 Passionate about solving business problems through data-driven solutions and intelligent automation.
 
 ---
 
@@ -41,24 +47,35 @@
 ---
 
 ### 📌 Featured Projects
-
 #### 🔧 [Flow Forge AI](https://flow-forge-ai-one.vercel.app/login)
-> NLP-based intelligent code generator and workflow optimizer  
-Tech: Python, Java, FastAPI, NLTK, PostgreSQL, React  
-• Generated 1000+ lines of code using NLP-based code synthesis  
-• Topological sort used for task and logic flow optimization
+> **Data-driven code optimization platform** with NLP capabilities
+**Tech:** Python,PostgreSQL, FastAPI, NLTK, LangChain, React
+• **Data Analysis:** Analyzed code patterns and developer workflows to optimize task sequencing
+• **AI Integration:** NLP-based code generation with topological sort for workflow optimization
+• **Impact:** Generated 1000+ lines of code using NLP-based code synthesis & Reduced development time by 30% through intelligent code suggestions
+
 
 #### 📺 [YouReview](https://github.com/D-S007/YouReview)
-> YouTube sentiment analyzer for genuine product/service feedback  
-Tech: Python, FastAPI, NLTK, PostgreSQL  
-• Scrapes comments, performs sentiment analysis, ranks “real” reviews  
-• Users can choose favorite creators for personalized outputs
+> **YouTube sentiment analysis platform** for data-driven product insights
+**Tech:** Python, FastAPI, Pandas, NLTK, postgreSQL, Plotly
+• **Data Pipeline:** Scraped and processed 10,000+ comments for sentiment analysis
+• **Analytics Dashboard:** Visualized sentiment trends and creator performance metrics
+• **Business Value:** Identified genuine product feedback with 85% accuracy
+
 
 #### 🎓 [CampusCopilot](https://github.com/D-S007/CampusCopilot)
 > AI-powered productivity assistant for students and faculty  
 Tech: Python, FastAPI, MongoDB Atlas, React  
 • Smart bunk planner to track skippable classes  
 • Real-time academic assistant: reminders, datesheets, announcements
+
+---
+
+### ⚡ Data-Driven Mindset
+
+- From insights to applications: I bridge data analysis with AI implementation
+- Strong foundation in statistical analysis combined with cutting-edge AI tools
+- Passionate about making data accessible through chatbots and interactive dashboards
 
 ---
 
@@ -86,14 +103,6 @@ Tech: Python, FastAPI, MongoDB Atlas, React
 
 ---
 
-### ⚡ Fun Facts
-
-- I like solving **real-world data problems**, not just toy datasets
-- Built full systems with minimal hardware (Linux + terminal hustle)
-- Learning is my superpower: I prototype before I perfect
-- Ask me about **open-source AI projects**, **Linux tools**, or **productivity hacks**
-
----
 
 > ⭐Thanks for visiting! Feel free to explore, fork, and reach out if you'd like to collaborate.
 <div align="center">

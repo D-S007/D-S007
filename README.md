@@ -18,7 +18,7 @@
 </div>
 
 ### 🔍 About Me
-📊 Data Analyst with specialized skills in AI/ML and NLP. I transform raw data into actionable insights and intelligent applications.
+📊 A Passionate Data Analyst with specialized skills in AI/ML and NLP. I transform raw data into actionable insights and intelligent applications.
 
 🔍 Core expertise in Data Analysis, Visualization, and Business Intelligence, enhanced with AI capabilities including:
 - Building NLP chatbots and AI agents for automated decision-making
